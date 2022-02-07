@@ -1,0 +1,10 @@
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - pip
+  - pip:
+    - re
+    - bs4
+    - os
+    - pandas
